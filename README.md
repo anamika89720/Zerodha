@@ -1,1 +1,1 @@
-# Zerodha-Clone
+# Stock Trading and Investment Platform
